@@ -37,8 +37,8 @@
     --bg-white: #fff;
     --bg-light: #f7f9fc;
 
-    --standard-border-radius: 20px;
     --standard-box-shadow: 0px 2px 40px rgba(0, 0, 0, 0.15);
+    --standard-border-radius: 20px;
     --primary-gradient: linear-gradient(
             101.33deg,
             #08209a 0.76%,
@@ -433,7 +433,7 @@ p {
     border-radius: var(--standard-border-radius);
 }
 
-/* INTEGRATIONS SEECTION STYLES */
+/* INTEGRATIONS SELECTION STYLES */
 .integrations-section {
     color: var(--text-light);
     width: 100%;
